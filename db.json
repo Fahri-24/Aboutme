@@ -1,0 +1,9 @@
+{
+    "users": [{
+        "id": 1,
+        "nama": "Mohammad Fahri", 
+        "nim": "6706200064",
+  	"kelas": "D3RPlA 44-04",
+	"asal": "Cirebon"
+    }]
+}
